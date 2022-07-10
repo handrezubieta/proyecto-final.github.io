@@ -1,0 +1,40 @@
+/* DOCUMENTO CSS */
+
+* {margin:0;
+    padding: 0,}
+
+div, header, aside, nav, main, article, section, footer { box-sizing: border-box;
+                                                            display: block;}
+
+.logo {  }
+
+.logo img { width: 100%;
+            height: auto; }
+
+.navegador { background-color: rgb(245, 161, 238);}
+
+.accion {  }
+
+.item1 { border: 1px black solid;
+        border-radius: 150px;        
+        padding: 50px; 
+        background: rgb(247, 223, 155);
+        box-shadow:rgb(252, 174, 228);}
+
+h2 {  }
+
+.accion2 {  padding: 30px 90px;
+            min-height: 450px;  
+            background-repeat: no-repeat;
+            background-position: center center;
+            background-size: 120px auto;}
+
+    
+
+.item2 {  background: rgb(141, 193, 141);
+            min-height: 100px;
+            background-color: rgb(172, 233, 157);}
+
+img { width: 600px;
+        height: 500px;}
+
